@@ -1,4 +1,4 @@
-# Financial Dashboard TUI
+# Stocks Dashboard TUI
 
 A real-time financial market monitor that runs in your terminal. This project uses a Python TUI to display live stock data, moving averages, and price changes, backed by a PostgreSQL database for persistent storage.
 
